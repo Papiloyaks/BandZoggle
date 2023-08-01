@@ -1,0 +1,52 @@
+.topTwo{
+    position: relative;
+    top: -600px;
+    left: 10%;
+    z-index: 1;
+}
+#nav{
+    background-color: rgb(35,42,54);
+}
+/* #nav2{
+    margin-left: 90%;
+    margin: 10px;
+} */
+#feat{
+    color: white;
+    font-size: 13px;
+
+}
+.Build{
+    color: white;
+    margin-left: 50%;
+    margin-top: -25%;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.try{
+    border: 1px;
+    height: 40px;
+    width: 150px;
+    position: relative;
+    left: -50%;
+    background-color: rgb(239,103,42);
+    color: white;
+    
+}
+.try:hover{
+    background-color: rgb(255,255,255);
+    color: rgb(239,103,42);
+}
+.tryTwo{
+    border: 1px solid white;
+    height: 40px;
+    width: 150px;
+    position: relative;
+    left: -45%;
+    background-color: rgb(35,42,54);
+    color: white;
+}
+.tryTwo:hover{
+    background-color: white;
+    color: rgb(239,103,42)
+}
